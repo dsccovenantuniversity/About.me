@@ -16,8 +16,8 @@ You have full creative control over the content of your script. In any way you d
 ## Getting Started
 ---
 - Every prgramming language has a folder named as the file extention. Feel create a folder for the  language you use if you don't find it in the root folder
-- You are expected to add your script into the folder that represents your  language. Please onescript per user. 
-- To add contribute your script you fork the repo, add your script, and make a pull request.
+- You are expected to add your script into the folder that represents your  language. Please one script per user. 
+- To add your to the repo; you fork the repo, add your script, and then make a pull request.
 - Explain with a one line comment at the end of your code how the script describes you 
 - **DO NOT MAKE CHANGES TO ANOTHER PERSONS SCRIPT. IT WOULD NOT BE MERGED**
 
