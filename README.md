@@ -22,6 +22,14 @@ You have full creative control over the content of your script. In any way you d
 - **DO NOT MAKE CHANGES TO ANOTHER PERSONS SCRIPT. IT WOULD NOT BE MERGED**
 
 
+## Contributing to this project
+---
+To make an acceptable pull request, you should:
+- Fork the dev branch 
+- Make changes to your forked version of the branch 
+- Make a pull request to the dev branch
+You can checkout a more detailed tutorial from this article on [dataschool.io](https://www.dataschool.io/how-to-contribute-on-github/)
+
 
 
 ## Help
