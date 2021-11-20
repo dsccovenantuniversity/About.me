@@ -1,6 +1,6 @@
 '''
 Is he gonna survive
-========================================================
+==========================================================
 
 A hero is on his way to the castle to complete his mission. 
 However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 
