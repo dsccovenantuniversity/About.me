@@ -25,8 +25,8 @@ You have full creative control over the content of your script. In any way you d
 ## Contributing to this project
 ---
 To make an acceptable pull request, you should:
-- Fork the dev branch 
-- Make changes to your forked version of the branch 
+- Fork the repo
+- Make changes to your forked version of the repo 
 - Make a pull request to the dev branch
 You can checkout a more detailed tutorial from this article on [dataschool.io](https://www.dataschool.io/how-to-contribute-on-github/)
 
