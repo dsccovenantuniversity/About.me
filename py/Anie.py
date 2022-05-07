@@ -1,6 +1,3 @@
-
-
-
 name= 'Anie'
 level = 100
 program = 'Computer Engineering'
