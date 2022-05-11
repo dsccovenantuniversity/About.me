@@ -7,7 +7,7 @@ console.log('%c Hey There!!', 'font-weight: bold; font-size: 50px;color: red; te
 // Variable declerations
 let interests = ["Dancing", "Anime", "Singing", "Big booty Latinas", "Music", "Finance"];
 let intro = "I love building amazing experiences on digital platforms like the web";
-let technologies = ["HTML", "CSS", "Javascript", "Figma", "Git", "GitHub", "Photoshop",];
+let technologies = ["HTML", "CSS", "Javascript", "Figma", "Git", "GitHub", "Photoshop"];
 let seniority;
 let level = "200 level";
 
@@ -21,7 +21,7 @@ let level = "200 level";
         seniority = "sophomore";
         break;
         case "300 level":
-        seniority = "sophomore";
+        seniority = "junior";
         break;
         case "400 level":
         seniority = "senior";
